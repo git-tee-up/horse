@@ -1,0 +1,36 @@
+body {
+  margin: 0px;
+  background-color: aliceblue;
+}
+
+#container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#content {
+  max-width: 960px;
+  margin: 0px 10px;
+}
+
+input {
+  margin: 20px 0px;
+}
+
+.centeredContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#output {
+  margin: 20px 0px;
+}
+
+@media only screen and (max-width: 950px) {
+  #content {
+    margin-top: auto;
+  }
+}
