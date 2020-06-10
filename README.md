@@ -8,9 +8,10 @@ There are a few guidelines. Mostly, please don't be an ass and get this repo/acc
 
 ### Guidelines
 
-* No racist, sexist, homophobic, violent, fraudulent, spam, or illegal content, or anything else that would violate GitHub's [Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service) or [Community Guidelines](https://help.github.com/en/github/site-policy/github-community-guidelines)
-* Don't be an ass to other people making changes, or insist that things have to be a certain way
-* Please leave the text in this README.md file alone above and including the line that says `^ LEAVE THIS STUFF ALONE ^`. This way everyone can read the guidelines and learn how to contribute
+* **No** racist, sexist, homophobic, violent, fraudulent, spam, or illegal content, or anything else that would violate GitHub's [Terms of Service](https://help.github.com/en/github/site-policy/github-terms-of-service) or [Community Guidelines](https://help.github.com/en/github/site-policy/github-community-guidelines)
+* **Do Not** touch the `CNAME` file
+* **Do Not** be an ass to other people making changes, or insist that things have to be a certain way
+* **Please** leave the text in this README.md file alone above and including the line that says `^ LEAVE THIS STUFF ALONE ^`. This way everyone can read the guidelines and learn how to contribute
 * Keep in mind, all commits are public
 
 ## Saddle Up
